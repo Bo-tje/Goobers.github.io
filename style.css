@@ -121,7 +121,7 @@ article{
 
   #gifs{
     margin-left: 60px;
-    display: flex;
+    /* display: flex; */
   }
 
 #About img{
