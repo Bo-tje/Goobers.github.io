@@ -89,6 +89,12 @@ body{
   to {opacity: 1}
 }
 
+/* .poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
 article{
     width: 100%;
     padding-left: 25px;
@@ -97,7 +103,7 @@ article{
     /* margin-left: 15px; */
     margin-top: 10px;
     /* float: left; */
-    font-style: italic;
+    font-family: "Poetsen One", sans-serif;;
     background-color: rgb(35, 35, 35);
     /* height: 200px; */
     color: white;
